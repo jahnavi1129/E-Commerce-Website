@@ -9,12 +9,10 @@ This is a simple and responsive E-Commerce Website built using HTML, CSS, and Ja
 - Interactive elements using JavaScript  
 - Clean and modern UI design  
 - Simple and user-friendly layout
-- 
 ## 🛠️ Technologies Used
 - HTML – Structure of the website  
 - CSS – Styling and layout design  
 - JavaScript – Interactivity and dynamic behavior
-- 
 ## 📂 Project Structure
 project-folder/
 │── index.html
